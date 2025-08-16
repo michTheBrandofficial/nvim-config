@@ -1,0 +1,3 @@
+Copy these and install them globally using npm
+
+@biomejs/biome tailwindcss-language-server typescript-language-server
