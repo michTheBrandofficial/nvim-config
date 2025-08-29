@@ -1,3 +1,3 @@
 git add . 
-git commit -m "[feat 🚀] added codeium ai and diffview "
+git commit -m "[feat 🚀] added store plugin magazine and lensline for git lens"
 git push origin main
