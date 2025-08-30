@@ -1,3 +1,3 @@
 git add . 
-git commit -m "[feat 🚀] added store plugin magazine and lensline for git lens"
+git commit -m "[feat 🚀] added lua line and comment  "
 git push origin main
